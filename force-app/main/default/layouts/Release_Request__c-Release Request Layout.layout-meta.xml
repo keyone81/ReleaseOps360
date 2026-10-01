@@ -137,7 +137,7 @@
         <fields>NAME</fields>
         <fields>Change_Type__c</fields>
         <fields>Component_API_Name__c</fields>
-        <fields>Component_deployment_state__c</fields>
+        <fields>Validation_Status__c</fields>
         <fields>Deployment_Status__c</fields>
         <fields>CREATED_DATE</fields>
         <fields>CREATEDBY_USER</fields>
