@@ -4,6 +4,7 @@
     <description>Parent release</description>
     <label>Release Request</label>
     <referenceTo>Release_Request__c</referenceTo>
+    <relationshipLabel>Deployment Items</relationshipLabel>
     <relationshipName>Deployment_Item_Number</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
